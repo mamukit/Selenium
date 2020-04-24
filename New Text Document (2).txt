@@ -4,4 +4,20 @@
 Create a script for booking the flight ticket using "URL based Script" and add error handling code for each and every transaction
 
 : j2ee / j2ee
+How to push local GIT to github step by step
+
+
+1... Create forder and add some file in it
+
+2.. for windows we can go command pompt c:\> add file or folder 
+c:\>user\computername\cd foldername
+c:\>users\sha\GitSelenium>git init
+c:\>users\sha\GitSelenium>git add *
+c:\>users\sha\GitSelenium>git commit-m "oooooo"
+c:\>users\sha\GitSelenium>git remote add origin githubfolder address
+c:\>users\sha\GitSelenium>git remote add origin https://github.com/mamukit/selenium.git
+
+
+
+
 
