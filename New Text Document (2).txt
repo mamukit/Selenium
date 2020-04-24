@@ -1,0 +1,7 @@
+<style> .Button a:link, .Button a:visited, .Button a:hover {border: None; border-width: 1px; padding: 7px 12px; width: 150px} .Button a.ButtonLink, .Button a.ButtonLink:link, .Button a.ButtonLink:visited {background: #1CABE2; color: white; text-decoration: none;border-radius:0.7em} .Button a.ButtonLink:hover {background: #1874cd; color: White; text-decoration: none;border-radius: 0.7em;} </style> <div class="Button"> <a class="ButtonLink" href="http://http://www.24livenewspaper.com/bangla-newspaper" target="_blank">Prothom Alo New??spaper</a>?<br/></div
+
+
+Create a script for booking the flight ticket using "URL based Script" and add error handling code for each and every transaction
+
+: j2ee / j2ee
+
